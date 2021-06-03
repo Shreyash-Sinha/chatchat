@@ -1,0 +1,55 @@
+/* Navigation Bar */
+.navbar{
+    background-color: azure;
+    padding: 2%;
+}
+.navbar-brand{
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+.nav-link{
+    font-size: 20px;
+    margin: 0 10px;
+}
+
+/* Header */
+.header{
+    padding: 7% 15%;
+    text-align: center;
+}
+.header h1{
+    font-size: 60px;
+    padding-bottom: 50px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+/* Login-Page */
+.login-form{
+    padding: 7% 15%;
+}
+
+/* Chat */
+.message-box{
+    padding:2%;
+    background-color:white;
+}
+.single-user-message{
+    padding: 10px;
+    background-color:cornflowerblue;
+    border-radius: 10px;
+}
+.single-message{
+    padding: 10px;
+    background-color:darkgray;
+    border-radius: 10px;
+}
+.chat-row{
+    margin: 20px;
+}
+.chat-row h2{
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 20px;
+}
+.chat-row p{
+    font-family: 'Ubuntu', sans-serif;
+}
